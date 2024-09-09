@@ -1,0 +1,87 @@
+.Detail-box{
+    border: 2px solid;
+    width: 50%;
+    padding: 1%;
+    border-radius: 20px;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.Detail-box h1{
+    border-bottom: 1px solid;
+    width: 25%;
+}
+.detail-cancel{
+    display: flex;
+    justify-content: space-between;
+}
+.detail-cancel-icon{
+    width: 4%;
+    height: 40px;
+}
+.detail-s-a-c{
+    border: none;
+    display: flex;
+}
+.detail-s-a-c p{
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+.detail-title{
+    border: none;
+    width: 20%;
+    font-size: large;
+}
+
+.detail-input{
+    border: 1px solid;
+    margin-left: 1%;
+    width: 80%;
+}
+
+.detail-date-time{
+    border: none;
+    display: flex;
+}
+.detail-km-charges{
+    border: none;
+    display: flex;
+}
+.detail-title1{
+    border: none;
+    width: 20%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    font-size: large;
+}
+.detail-input1{
+    border: 1px solid;
+    margin-left: 1%;
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.detail-title1-1{
+    border: none;
+    margin-left: 3%;
+    width: 20%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    font-size: large;
+}
+.detail-status{
+    border: 2px solid;
+    display: flex;
+}
+.detail-st{
+    border: 2px solid;
+    width: 20%;
+}

@@ -1,0 +1,28 @@
+.Order-list{
+    display: flex;
+    align-items: center;
+}
+.Picked-by{
+    margin-left: 1%;
+}
+.order1{
+    border: 3px solid;
+    display: flex;
+    width: 80%;
+    margin-top: 20px;
+    border-radius: 15px;
+    align-items: center;
+}
+.order1 h2{
+    border: 2px solid;
+    width: 25%;
+    height:50px;
+    border-radius: 5px;
+    text-align: center;
+}
+.order1 select{
+    width: 25%;
+    border-radius: 15px;
+    font-size: large;
+    height: 50px;
+}
